@@ -1,20 +1,26 @@
 h1 {
-  colour: coral blue;
-  background-color: white;
+  colour: blue;
   text-align: center;
 }
+h2 {
+  color: blue;
+  text-align: left;
+
+}
 .me {
-  background-color: coral blue;
   font style: arial;
 }
 img {
-  width: 200px;
-  height: 200px;
+  width: 400px;
+  height: 400px;
   float: left;
+}
+.why{
+  font-style: italic;
 }
 
 .list {
-  
+
 
 
 }
