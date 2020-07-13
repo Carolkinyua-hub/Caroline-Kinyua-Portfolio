@@ -12,11 +12,6 @@ h2 {
   text-align: center;
   font-weight: lighter;
 
-.other {
-  color: black;
-  text-align: center;
-  font-weight: lighter;
-  }
 
 body {
   background-color: teal;
@@ -28,12 +23,13 @@ body {
 .me {
   font-style: arial;
 }
+
 img {
-  width: 400px;
-  height: 400px;
+  width: 200px;
+  height: 200px;
   float: left;
-  background-color: black;
 }
+
 .why{
 font-size: 40;
 color: black;
@@ -42,10 +38,4 @@ color: black;
   font-weight: lighter;
   font-size: 30;
   font-family: arial
-}
-
-
-
-
-
 }
