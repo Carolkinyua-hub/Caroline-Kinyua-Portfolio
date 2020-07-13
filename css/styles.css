@@ -1,19 +1,28 @@
 h1 {
-  color: dodgerblue;
+  color: black;
   text-align: center;
   font-style: oblique;
-  font-size: 40;
+  font-size: 30;
+  font-weight: lighter;
 
 }
 h2 {
-  color: dodgerblue;
+  color: black;
+  text-emphasis-color: black;
   text-align: center;
-}
+  font-weight: lighter;
+
+.other {
+  color: black;
+  text-align: center;
+  font-weight: lighter;
+  }
+
 body {
-  background-image: url(https://unsplash.com/photos/VV-EKYP6TAI);
+  background-color: teal;
   Font-family : arial;
   Font-size: 40;
-  Font-color: white;
+  color: white;
 
 }
 .me {
@@ -26,12 +35,16 @@ img {
   background-color: black;
 }
 .why{
-  font-style: italic;
-  font-size: 40;
-  font-color: dodgerblue;
+font-size: 40;
+color: black;
+}
+.unordered {
+  font-weight: lighter;
+  font-size: 30;
+  font-family: arial
 }
 
-.list {
+
 
 
 
