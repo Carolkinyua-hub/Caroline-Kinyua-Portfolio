@@ -4,7 +4,6 @@ h1 {
   font-style: oblique;
   font-size: 30;
   font-weight: lighter;
-
 }
 h2 {
   color: black;
@@ -12,18 +11,17 @@ h2 {
   text-align: center;
   font-weight: lighter;
 
-
 body {
   background-color: teal;
   Font-family : arial;
   Font-size: 40;
   color: white;
-
 }
+
+
 .me {
   font-style: arial;
 }
-
 img {
   width: 50px;
   height: 50px;
