@@ -1,30 +1,28 @@
 h1 {
-  color: black;
-  text-align: center;
+  color: green;
+  text-align: left;
   font-style: oblique;
   font-size: 30;
   font-weight: lighter;
 }
 h2 {
-  color: black;
+  color: green;
   text-emphasis-color: black;
-  text-align: center;
+  text-align: left;
   font-weight: lighter;
-
-body {
-  background-color: teal;
-  Font-family : arial;
-  Font-size: 40;
-  color: white;
-}
 
 .me {
   font-style: arial;
 }
 img {
-  width: 50px;
-  height: 50px;
+  width: 200 px;
+  height: 200 px;
   float: left;
+}
+body{
+  background-color: teal;
+  font-family: fantasy;
+
 }
 
 .why{
